@@ -1,9 +1,7 @@
 ### Oi, eu sou o Lucas !
 
-- 📚 Estou estudando no momento: Java, MySQL e Spring
-- 🤖 Interessado atualmente em participar de projetos para back-end
-- 📫 Como entrar em contato comigo: https://linktr.ee/limxlucas
-- 😄 Pronomes: Ele / dele (He / him / his)
+- Estou estudando no momento: Java, MySQL e Spring
+- Como entrar em contato comigo: https://linktr.ee/limxlucas
 
 <div align="center">
   <a href="https://linktr.ee/limxlucas">
